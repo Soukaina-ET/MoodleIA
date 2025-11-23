@@ -1,0 +1,126 @@
+[
+  {
+    "timestamp": "2025-11-22T15:42:30.607522",
+    "student_id": 11391,
+    "user_message": "Bonjour, comment vont mes études?",
+    "bot_response": "Bonjour ! Malheureusement, votre moyen score actuel est assez faible avec 0.8/100. Cela ne représente pas une performance satisfaisante. Cependant, je veux vous encourager et vous apporter du soutien. Vous n'avez encore pas eu de évaluations, et votre taux de soumissions tardives est très élevé à -77%. Je vous conseille de travailler régulièrement et de soumettre vos travaux dès que possible. Cela aidera à améliorer votre performance et à vous rapprocher de votre objectif. Vous avez un bon statut académique, donc il est important de profiter de cette opportunité pour tirer le meilleur parti de votre formation en ligne. Je crois en vous et suis sûr que vous pouvez réussir. N'hésitez pas à me poser toute question si cela vous aide.",
+    "context": {
+      "demographics": {
+        "gender": "M",
+        "age_band": "55<=",
+        "education": "HE Qualification",
+        "final_result": "Pass"
+      },
+      "performance": {
+        "avg_score": 0.7523452857011933,
+        "num_assessments": 0,
+        "total_clicks": 0,
+        "active_days": 0,
+        "late_submission_rate": -0.7656216122684851
+      },
+      "risk_analysis": {
+        "is_at_risk": false,
+        "risk_probability": 0.001641695387661457,
+        "status": "Bon statut"
+      },
+      "engagement": {
+        "total_interactions": 934,
+        "recent_activity": "Actif"
+      }
+    },
+    "model": "mistralai/Mistral-7B-Instruct-v0.2"
+  },
+  {
+    "timestamp": "2025-11-22T15:42:39.474991",
+    "student_id": 11391,
+    "user_message": "Est-ce que je risque d'échouer?",
+    "bot_response": "Bien sûr, je suis désolé de voir que vos résultats actuels ne sont pas satisfaisants. Cependant, selon les données disponibles, votre probabilité de réussite est encore élevée, à 100%. Cela ne veut pas forcément signifier que tout va bien, car ces données ne peuvent pas prendre en compte tous les facteurs. Néanmoins, je vous encourage fortement à continuer à travailler dur et à soumettre vos évaluations à temps. Je suis ici pour vous aider si vous avez des questions ou des doutes. Vous pouvez aussi partager vos difficultés et nous trouverons ensemble des solutions. Vous êtes capable de réussir, ne vous dérangez pas !",
+    "context": {
+      "demographics": {
+        "gender": "M",
+        "age_band": "55<=",
+        "education": "HE Qualification",
+        "final_result": "Pass"
+      },
+      "performance": {
+        "avg_score": 0.7523452857011933,
+        "num_assessments": 0,
+        "total_clicks": 0,
+        "active_days": 0,
+        "late_submission_rate": -0.7656216122684851
+      },
+      "risk_analysis": {
+        "is_at_risk": false,
+        "risk_probability": 0.001641695387661457,
+        "status": "Bon statut"
+      },
+      "engagement": {
+        "total_interactions": 934,
+        "recent_activity": "Actif"
+      }
+    },
+    "model": "mistralai/Mistral-7B-Instruct-v0.2"
+  },
+  {
+    "timestamp": "2025-11-22T15:42:50.381827",
+    "student_id": 11391,
+    "user_message": "Quels conseils pouvez-vous me donner?",
+    "bot_response": "Chers étudiants, je suis désolé de voir que vos scores moyens ne sont pas satisfaisants jusqu'à présent. Votre progression est importante pour nous, et je suis sûr que vous avez des capacités incroyables. Pour améliorer vos notes, j'ai quelques conseils à vous donner :\n\n1. Consacre plus de temps à chaque évaluation : Prendre un temps supplémentaire pour lire attentivement les questions et réfléchir à vos réponses.\n2. Utilisez les ressources disponibles : Les matériels en ligne, les tutoriels et les vidéos pour apprendre les concepts clés.\n3. Restez engagé : Répondre régulièrement aux évaluations et participuez aux discussions dans les forums.\n4. Utilisez des méthodes d'apprentissage actifs : Faites des exercices, prenez des notes personnelles et revoyez régulièrement vos notes.\n5. Utilisez des stratégies",
+    "context": {
+      "demographics": {
+        "gender": "M",
+        "age_band": "55<=",
+        "education": "HE Qualification",
+        "final_result": "Pass"
+      },
+      "performance": {
+        "avg_score": 0.7523452857011933,
+        "num_assessments": 0,
+        "total_clicks": 0,
+        "active_days": 0,
+        "late_submission_rate": -0.7656216122684851
+      },
+      "risk_analysis": {
+        "is_at_risk": false,
+        "risk_probability": 0.001641695387661457,
+        "status": "Bon statut"
+      },
+      "engagement": {
+        "total_interactions": 934,
+        "recent_activity": "Actif"
+      }
+    },
+    "model": "mistralai/Mistral-7B-Instruct-v0.2"
+  },
+  {
+    "timestamp": "2025-11-22T15:42:58.399649",
+    "student_id": 11391,
+    "user_message": "Je me sens découragé, comment faire?",
+    "bot_response": "Je comprends que vous vous sentez découragé actuellement, et c'est normal lors d'un parcours d'études. Votre score moyen semble être faible, mais il y a toujours une solution. Essayez de passer plus de temps à travailler sur vos évaluations, et ne laissez pas de soumettre trop tard. Je suis sûr que vous avez des compétences fortes et que vous pouvez améliorer vos résultats. Continuez de vous pousser et ne vous découragez pas. Je suis ici pour vous aider si vous en avez besoin. Vous êtes capable de réussir!",
+    "context": {
+      "demographics": {
+        "gender": "M",
+        "age_band": "55<=",
+        "education": "HE Qualification",
+        "final_result": "Pass"
+      },
+      "performance": {
+        "avg_score": 0.7523452857011933,
+        "num_assessments": 0,
+        "total_clicks": 0,
+        "active_days": 0,
+        "late_submission_rate": -0.7656216122684851
+      },
+      "risk_analysis": {
+        "is_at_risk": false,
+        "risk_probability": 0.001641695387661457,
+        "status": "Bon statut"
+      },
+      "engagement": {
+        "total_interactions": 934,
+        "recent_activity": "Actif"
+      }
+    },
+    "model": "mistralai/Mistral-7B-Instruct-v0.2"
+  }
+]
