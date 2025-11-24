@@ -48,7 +48,7 @@ class AIStudentChatbot:
     def __init__(self, 
                  data_path: str = 'Data/processed/', 
                  models_path: str = 'Predictions/models/',
-                 hf_token: str | None = "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", 
+                 hf_token: str | None = "hf*********************************", 
                  model_name: str = 'mistralai/Mistral-7B-Instruct-v0.2',
                  skip_client_init: bool = False): # Ajout d'un flag pour le chargement
         
